@@ -376,9 +376,6 @@ experiment evaluation, production deployment, and ongoing monitoring.
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 Feel free to use, modify, and distribute this work.
 
-**Author:** 
-Fidan Bannayeva — [LinkedIn](https://www.linkedin.com/in/fbannaye)
-
 Built as a portfolio demonstrating end-to-end marketplace ML skills.
 Inspired by real-world pricing and experimentation challenges at companies
 like Freenow, Uber, Bolt, and similar European ride-hailing platforms.

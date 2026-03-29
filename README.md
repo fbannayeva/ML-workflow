@@ -114,8 +114,6 @@ sample_rides.csv
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 Feel free to use, modify, and distribute this work.
 
-**Author:** 
-Fidan Bannayeva — [LinkedIn](https://www.linkedin.com/in/fbannaye)
 
 *Portfolio focused on marketplace ML and applied GenAI.
 Inspired by real-world challenges at companies like Freenow, Uber, and Bolt.*

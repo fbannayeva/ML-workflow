@@ -124,5 +124,4 @@ Companion project to [marketplace-pricing-ml](https://github.com/yourname/market
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 Feel free to use, modify, and distribute this work.
 
-**Author:** 
-Fidan Bannayeva — [LinkedIn](https://www.linkedin.com/in/fbannaye)
+
